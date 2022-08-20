@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringBoot-multi-source" />
+        <module name="Springboot2-api-encrypt" />
+        <module name="springboot-shiro-mybaits-plus" />
+        <module name="springboot-mybatisplus" />
+        <module name="jwt" />
+        <module name="SpringBoot-i18n" />
+        <module name="springboot-elk" />
+        <module name="redisson" />
+        <module name="blog" />
+        <module name="springboot-redis-standalone" />
+        <module name="editormd" />
+        <module name="springboot-mq" />
+        <module name="springboot-web" />
+        <module name="limit" />
+        <module name="shiro-quickstart" />
+        <module name="springboot-shiro-token" />
+        <module name="amqp-generator" />
+        <module name="amqp-commons" />
+        <module name="springboot-redis-sentinel" />
+        <module name="springboot-mail" />
+        <module name="cache" />
+        <module name="fli" />
+        <module name="springboot-log" />
+        <module name="amqp-timer" />
+        <module name="helloword (1)" />
+        <module name="google-check" />
+        <module name="springboot-validator" />
+        <module name="springboot-doc" />
+        <module name="springboot-shiro-thymeleaf" />
+        <module name="amqp-consumer" />
+        <module name="springboot-elasticsearch" />
+        <module name="helloword" />
+        <module name="amqp-provider" />
+        <module name="springboot-redis-cluster" />
+        <module name="springboot-mybatis-config" />
+        <module name="springboot-quartz" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="amqp" target="1.8" />
+      <module name="amqp-commons" target="1.8" />
+      <module name="amqp-consumer" target="1.8" />
+      <module name="amqp-generator" target="1.8" />
+      <module name="amqp-provider" target="1.8" />
+      <module name="amqp-timer" target="1.8" />
+      <module name="blog" target="1.8" />
+      <module name="cache" target="1.8" />
+      <module name="editormd" target="1.8" />
+      <module name="fli" target="1.8" />
+      <module name="google-check" target="1.8" />
+      <module name="helloword" target="1.8" />
+      <module name="helloword (1)" target="1.8" />
+      <module name="jwt" target="1.8" />
+      <module name="limit" target="1.8" />
+      <module name="redisson" target="1.8" />
+      <module name="shiro-quickstart" target="1.5" />
+      <module name="springboot-doc" target="1.8" />
+      <module name="springboot-elasticsearch" target="1.8" />
+      <module name="springboot-elk" target="1.8" />
+      <module name="SpringBoot-i18n" target="1.8" />
+      <module name="springboot-log" target="1.8" />
+      <module name="springboot-mail" target="1.8" />
+      <module name="springboot-mq" target="1.8" />
+      <module name="SpringBoot-multi-source" target="1.8" />
+      <module name="springboot-mybatis-config" target="1.8" />
+      <module name="springboot-mybatisplus" target="1.8" />
+      <module name="springboot-quartz" target="1.8" />
+      <module name="springboot-redis" target="1.8" />
+      <module name="springboot-redis-cluster" target="1.8" />
+      <module name="springboot-redis-sentinel" target="1.8" />
+      <module name="springboot-redis-standalone" target="1.8" />
+      <module name="springboot-shiro-mybaits-plus" target="1.8" />
+      <module name="springboot-shiro-thymeleaf" target="1.8" />
+      <module name="springboot-shiro-token" target="1.8" />
+      <module name="springboot-validator" target="1.8" />
+      <module name="springboot-web" target="1.8" />
+      <module name="Springboot2-api-encrypt" target="1.8" />
+      <module name="springboot2-shiro" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Springboot2-api-encrypt" options="-parameters" />
+      <module name="amqp-commons" options="-parameters" />
+      <module name="amqp-consumer" options="-parameters" />
+      <module name="amqp-generator" options="-parameters" />
+      <module name="amqp-provider" options="-parameters" />
+      <module name="amqp-timer" options="-parameters" />
+      <module name="cache" options="-parameters" />
+      <module name="google-check" options="-parameters" />
+      <module name="helloword" options="-parameters" />
+      <module name="helloword (1)" options="-parameters" />
+      <module name="jwt" options="-parameters" />
+      <module name="limit" options="-parameters" />
+      <module name="redisson" options="-parameters" />
+      <module name="springboot-doc" options="-parameters" />
+      <module name="springboot-elk" options="-parameters" />
+      <module name="springboot-log" options="-parameters" />
+      <module name="springboot-mq" options="-parameters" />
+      <module name="springboot-mybatis-config" options="-parameters" />
+      <module name="springboot-mybatisplus" options="-parameters" />
+      <module name="springboot-quartz" options="-parameters" />
+      <module name="springboot-redis-cluster" options="-parameters" />
+      <module name="springboot-redis-sentinel" options="-parameters" />
+      <module name="springboot-shiro-mybaits-plus" options="-parameters" />
+      <module name="springboot-shiro-thymeleaf" options="-parameters" />
+      <module name="springboot-shiro-token" options="-parameters" />
+      <module name="springboot-validator" options="-parameters" />
+      <module name="springboot-web" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-i18n/SpringBoot-i18n.iml" filepath="$PROJECT_DIR$/SpringBoot-i18n/SpringBoot-i18n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-multi-source/SpringBoot-multi-source.iml" filepath="$PROJECT_DIR$/SpringBoot-multi-source/SpringBoot-multi-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Springboot.iml" filepath="$PROJECT_DIR$/.idea/Springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot2-api-encrypt/Springboot2-api-encrypt.iml" filepath="$PROJECT_DIR$/Springboot2-api-encrypt/Springboot2-api-encrypt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-amqp/amqp.iml" filepath="$PROJECT_DIR$/SpringBoot-amqp/amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-amqp/amqp-commons/amqp-commons.iml" filepath="$PROJECT_DIR$/SpringBoot-amqp/amqp-commons/amqp-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-amqp/amqp-consumer/amqp-consumer.iml" filepath="$PROJECT_DIR$/SpringBoot-amqp/amqp-consumer/amqp-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-amqp/amqp-generator/amqp-generator.iml" filepath="$PROJECT_DIR$/SpringBoot-amqp/amqp-generator/amqp-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-amqp/amqp-provider/amqp-provider.iml" filepath="$PROJECT_DIR$/SpringBoot-amqp/amqp-provider/amqp-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-amqp/amqp-timer/amqp-timer.iml" filepath="$PROJECT_DIR$/SpringBoot-amqp/amqp-timer/amqp-timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mongodb/blog.iml" filepath="$PROJECT_DIR$/springboot-mongodb/blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-RedisCacheManager/cache.iml" filepath="$PROJECT_DIR$/SpringBoot-RedisCacheManager/cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-editor.md/editormd.iml" filepath="$PROJECT_DIR$/springboot-editor.md/editormd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-filter-listener-interceptor/fli.iml" filepath="$PROJECT_DIR$/springboot-filter-listener-interceptor/fli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Google-Check/google-check.iml" filepath="$PROJECT_DIR$/SpringBoot-Google-Check/google-check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloword/helloword.iml" filepath="$PROJECT_DIR$/helloword/helloword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-annotation/helloword (1).iml" filepath="$PROJECT_DIR$/springboot-mybatis-annotation/helloword (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-JWT/jwt.iml" filepath="$PROJECT_DIR$/SpringBoot-JWT/jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-limit/limit.iml" filepath="$PROJECT_DIR$/SpringBoot-limit/limit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot2-Redisson/redisson.iml" filepath="$PROJECT_DIR$/SpringBoot2-Redisson/redisson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot2-shiro/shiro-quickstart/shiro-quickstart.iml" filepath="$PROJECT_DIR$/springboot2-shiro/shiro-quickstart/shiro-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-doc/springboot-doc.iml" filepath="$PROJECT_DIR$/SpringBoot-doc/springboot-doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-elasticsearch/springboot-elasticsearch.iml" filepath="$PROJECT_DIR$/springboot-elasticsearch/springboot-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-elk/springboot-elk.iml" filepath="$PROJECT_DIR$/springboot-elk/springboot-elk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-log/springboot-log.iml" filepath="$PROJECT_DIR$/springboot-log/springboot-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mail/springboot-mail.iml" filepath="$PROJECT_DIR$/springboot-mail/springboot-mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mq/springboot-mq.iml" filepath="$PROJECT_DIR$/springboot-mq/springboot-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-config/springboot-mybatis-config.iml" filepath="$PROJECT_DIR$/springboot-mybatis-config/springboot-mybatis-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatisplus/springboot-mybatisplus.iml" filepath="$PROJECT_DIR$/springboot-mybatisplus/springboot-mybatisplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Quartz/springboot-quartz.iml" filepath="$PROJECT_DIR$/SpringBoot-Quartz/springboot-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis-cluster/springboot-redis-cluster.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis-cluster/springboot-redis-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis-sentinel/springboot-redis-sentinel.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis-sentinel/springboot-redis-sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis-standalone/springboot-redis-standalone.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis-standalone/springboot-redis-standalone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot2-shiro/springboot-shiro-mybaits-plus/springboot-shiro-mybaits-plus.iml" filepath="$PROJECT_DIR$/springboot2-shiro/springboot-shiro-mybaits-plus/springboot-shiro-mybaits-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot2-shiro/springboot-shiro-thymeleaf/springboot-shiro-thymeleaf.iml" filepath="$PROJECT_DIR$/springboot2-shiro/springboot-shiro-thymeleaf/springboot-shiro-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot2-shiro/springboot-shiro-token/springboot-shiro-token.iml" filepath="$PROJECT_DIR$/springboot2-shiro/springboot-shiro-token/springboot-shiro-token.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-validator/springboot-validator.iml" filepath="$PROJECT_DIR$/springboot-validator/springboot-validator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-web/springboot-web.iml" filepath="$PROJECT_DIR$/springboot-web/springboot-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot2-shiro/springboot2-shiro.iml" filepath="$PROJECT_DIR$/springboot2-shiro/springboot2-shiro.iml" />
+    </modules>
+  </component>
+</project>

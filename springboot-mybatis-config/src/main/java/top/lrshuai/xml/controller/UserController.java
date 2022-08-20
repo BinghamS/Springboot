@@ -35,9 +35,9 @@ public class UserController {
 	 */
 	@RequestMapping("/user/{id}")
 	public Object getUserById(@PathVariable("id") Long uid) throws Exception{
-		System.out.println("uid"+uid);
+		System.out.println("111uid"+uid);
 		User u = userMapper.getUserById(uid);
-		System.out.println("user="+u);
+		System.out.println("222user="+u);
 		return u == null ?"没有这个用户":u;
 	}
 	
